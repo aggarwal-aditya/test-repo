@@ -1,7 +1,4 @@
-# Institute-Learning-Management
-
-
-The Institute-Learning-Management is a command line based application designed for students and instructors to manage their academic records, including grades, course registration, and grade sheets. The portal provides a user-friendly interface that allows students to easily access and update their academic information.
+al provides a user-friendly interface that allows students to easily access and update their academic information.
 
 Benefits
 --------
